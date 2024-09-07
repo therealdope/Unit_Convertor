@@ -6,4 +6,4 @@ This is a simulation of units conversion tool in [Logisim](http://www.cburch.com
 2. Length 
 3. Mass/Weight
 
-`#1589F0`Negative Numbers are allowed too
+`#1589F0 Negative Numbers are allowed too`
